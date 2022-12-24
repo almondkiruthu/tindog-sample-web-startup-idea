@@ -1,0 +1,1 @@
+# tindog-sample-web-startup-idea
